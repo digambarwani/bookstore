@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="BookstoreAPISuite">
+
+  <test name="CRUD Flow Test">
+    <classes>
+      <class name="bookstoreTests.CreateBookTest"/>
+      <class name="bookstoreTests.GetBookTest"/>
+      <class name="bookstoreTests.UpdateBookTest"/>
+      <class name="bookstoreTests.DeleteBookTest"/>
+    </classes>
+  </test>
+
+</suite>
