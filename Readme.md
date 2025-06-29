@@ -31,7 +31,7 @@ The aim is to provide clear test coverage, maintainable code, and reliable resul
    `git clone https://github.com/JK-Technosoft-Limited/bookstore.git`  
 2. Navigate into the cloned directory  
 3. Install required dependencies (ensure Python and FastAPI are installed)  
-4. Start the API server using Uvicorn with reload enabled  
+4. Start the API server using: uvicorn main:app --reload  
 5. Access API documentation at: `http://127.0.0.1:8000/docs`
 
 ---
