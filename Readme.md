@@ -76,6 +76,7 @@ The aim is to provide clear test coverage, maintainable code, and reliable resul
 
 - TestNG produces an HTML report in the `test-output` directory  
 - A sample report screenshot is provided in the repo: `sample-report.png`
+![Sample Report](sample-report.png)
 
 ---
 
